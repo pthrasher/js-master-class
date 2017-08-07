@@ -31,6 +31,17 @@ Articles/Blog posts
   This series is written by Eric Elliot. He’s an anti-class zealot, and he shamelessly plugs his library “stampit.js”… That said, he’s a really smart dude and has some really important stuff to say in these articles. I consider this mandatory reading.
     - **Part 1** - *(12 min read)* ([link][reading-1])
     - **Part 2** - *(14 min read)* ([link][reading-2])
+- **Composing Software**
+  Another series written by Eric Elliot. Showing some hard-learned lessons on reducing the cognitive burden of writing software and reducing the surface area for bugs. Another mandatory read.
+    - **Part 1: The Rise and Fall and Rise of Functional Programming** - *(6 min read)* ([link][reading-7])
+    - **Part 2: Why Learn Functional Programming in JavaScript?** - *(10 min read)* ([link][reading-8])
+    - **Part 3: A Functional Programmer’s Introduction to JavaScript** - *(13 min read)* ([link][reading-9])
+    - **Part 4: Higher Order Functions** - *(5 min read)* ([link][reading-10])
+    - **Part 5: Reduce** - *(6 min read)* ([link][reading-11])
+    - **Part 6: Functors & Categories** - *(8 min read)* ([link][reading-12])
+    - **Part 7: Functional Mixins** - *(12 min read)* ([link][reading-13])
+    - **Part 8: JavaScript Factory Functions with ES6+** - *(10 min read)* ([link][reading-14])
+    - **Part 9: Why Composition is Harder with Classes** - *(13 min read)* ([link][reading-15])
 - **Facebook Just Taught Us All How To Build Websites** *(4 min read)* ([link][reading-3])
 - **Removing User Interface Complexity, or Why React is Awesome** *(15 min read)* ([link][reading-4])  
   This blog post is the first thing that actually made me begin to take react.js seriously. Really worth the read.
@@ -45,6 +56,15 @@ Articles/Blog posts
 [reading-4]: http://jlongster.com/Removing-User-Interface-Complexity,-or-Why-React-is-Awesome
 [reading-5]: https://javascriptweblog.wordpress.com/2011/02/07/truth-equality-and-javascript/
 [reading-6]: http://www.crockford.com/javascript/inheritance.html
+[reading-7]: https://medium.com/javascript-scene/the-rise-and-fall-and-rise-of-functional-programming-composable-software-c2d91b424c8c
+[reading-8]: https://medium.com/javascript-scene/why-learn-functional-programming-in-javascript-composing-software-ea13afc7a257
+[reading-10]: https://medium.com/javascript-scene/a-functional-programmers-introduction-to-javascript-composing-software-d670d14ede30
+[reading-9]: https://medium.com/javascript-scene/higher-order-functions-composing-software-5365cf2cbe99
+[reading-11]: https://medium.com/javascript-scene/reduce-composing-software-fe22f0c39a1d
+[reading-12]: https://medium.com/javascript-scene/functors-categories-61e031bac53f
+[reading-13]: https://medium.com/javascript-scene/functional-mixins-composing-software-ffb66d5e731c
+[reading-14]: https://medium.com/javascript-scene/javascript-factory-functions-with-es6-4d224591a8b1
+[reading-15]: https://medium.com/javascript-scene/why-composition-is-harder-with-classes-c3e627dcd0aa
 
 
 Videos
