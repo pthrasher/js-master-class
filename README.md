@@ -26,7 +26,7 @@ Articles/Blog posts
 -------------------
 
 
-
+- **7 Principles of Rich Web Applications** - *(25 min read)* ([link][reading-16])
 - **The Two Pillars of JavaScript**  
   This series is written by Eric Elliot. He’s an anti-class zealot, and he shamelessly plugs his library “stampit.js”… That said, he’s a really smart dude and has some really important stuff to say in these articles. I consider this mandatory reading.
     - **Part 1** - *(12 min read)* ([link][reading-1])
@@ -65,6 +65,7 @@ Articles/Blog posts
 [reading-13]: https://medium.com/javascript-scene/functional-mixins-composing-software-ffb66d5e731c
 [reading-14]: https://medium.com/javascript-scene/javascript-factory-functions-with-es6-4d224591a8b1
 [reading-15]: https://medium.com/javascript-scene/why-composition-is-harder-with-classes-c3e627dcd0aa
+[reading-16]: https://rauchg.com/2014/7-principles-of-rich-web-applications
 
 
 Videos
